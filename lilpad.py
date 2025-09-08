@@ -284,7 +284,7 @@ class LilPad:
 
     def show_docs(self):
         try:
-            webbrowser.open_new_tab("https://www.github.com/DevManoj96/")
+            webbrowser.open_new_tab("https://github.com/DevManoj96/LilPad/blob/main/DOCUMENTATIONS.md")
         except webbrowser.Error as e:
             messagebox.showerror("Error", str(e))
 
