@@ -14,10 +14,11 @@ LilPad is a lightweight and opensource text editor build with python. I have mad
 ## 📸 ScreenShots
 1) Dark Mode
 
-
+<img width="804" height="656" alt="darkmode" src="https://github.com/user-attachments/assets/b6338ee2-fdad-4f2e-9956-26fa9693a283" />
 
 2) Light Mode
 
+<img width="804" height="656" alt="lightmode" src="https://github.com/user-attachments/assets/b86cf139-0274-45fe-87b6-0e0d3ed346ec" />
 
 ---
 
@@ -26,7 +27,7 @@ A. Installing the lilpad
 
 1) Clone the repository
 ```bash
-git clone [text](https://github.com/DevManoj96/LilPad.git)
+git clone https://github.com/DevManoj96/LilPad.git
 ```
 
 2) Run the setup file
@@ -43,7 +44,7 @@ B. Running from python file
 
 1) Clone the repository
 ```bash
-git clone [text](https://github.com/DevManoj96/LilPad.git)
+git clone https://github.com/DevManoj96/LilPad.git
 ```
 
 2) Install the requirements
@@ -55,7 +56,6 @@ pip3 install -r requirements.txt
 ```bash
 python3 lilpad.py
 ```
-
 ---
 
 ## 📜 Licence
